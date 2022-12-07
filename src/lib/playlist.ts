@@ -2,9 +2,9 @@ export type Playlist = typeof playlist
 export type Track = typeof playlist.tracks[0]
 
 export const playlist = {
-  title: 'Peaceful Lofi',
+  title: 'Musixx',
   description:
-    'Relax and indulge with a puff of peaceful lofi.',
+    'Just a simple music/mp3 player',
   cover: 'playlist/cover.jpg',
   tracks: [
     {
