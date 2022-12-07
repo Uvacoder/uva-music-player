@@ -17,13 +17,15 @@ export const playlist = {
       url: 'playlist/track-01/track.mp3',
     },
     {
-      title: 'And So It Begins',
+      title: 'This summer',
       album: 'Artifical Music',
       artist: 'Aryll Fae',
-      cover: 'playlist/track-02/cover.jpg',
+      cover: 'playlist/track-04/cover.jpg',
       added: '2 days ago',
       duration: 47,
-      url: 'playlist/track-02/track.mp3',
+      url: 'playlist/track-04/12. Maroon 5 - This Summers Gonna Hurt Like A Motherfucker.mp3
+
+',
     },
   ],
 }
