@@ -16,14 +16,5 @@ export const playlist = {
       duration: 62,
       url: 'playlist/track-01/track.mp3',
     },
-    {
-      title: 'This summer',
-      album: 'Artifical Music',
-      artist: 'Aryll Fae',
-      cover: 'playlist/track-04/iTunes.png',
-      added: '2 days ago',
-      duration: 47,
-      url: 'playlist/track-04/12. Maroon 5 - This Summers Gonna Hurt Like A Motherfucker.mp3',
-    },
   ],
 }
