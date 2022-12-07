@@ -23,9 +23,7 @@ export const playlist = {
       cover: 'playlist/track-04/iTunes.png',
       added: '2 days ago',
       duration: 47,
-      url: 'playlist/track-04/12. Maroon 5 - This Summers Gonna Hurt Like A Motherfucker.mp3
-
-',
+      url: 'playlist/track-04/12. Maroon 5 - This Summers Gonna Hurt Like A Motherfucker.mp3',
     },
   ],
 }
